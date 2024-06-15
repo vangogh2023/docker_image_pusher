@@ -1,1 +1,1 @@
-thingsboard/tb-cassandra
+thingsboard/tb-cassandra 3.6.4
