@@ -1,1 +1,1 @@
-thingsboard/tb  v3.6.4
+thingsboard/tb
