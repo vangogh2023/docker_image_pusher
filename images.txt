@@ -1,1 +1,1 @@
-thingsboard/tb
+thingsboard/tb-cassandra
