@@ -1,1 +1,1 @@
-thingsboard/tb-postgres:latest
+docker pull thingsboard/tb-postgres
